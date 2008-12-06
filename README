@@ -1,3 +1,8 @@
 JavaScript Unit Testing TextMate bundle
 
 A set of snippets for using prototypejs' unittest.js test suite.
+
+Install it in your TextMate bundles directory with a .tmbundle extension like this:
+
+cd /Applications/TextMate.app/Contents/SharedSupport/Bundles
+git clone git://github.com/drnic/javascript-unittest-tmbundle.git Javascript\ Unit\ Testing.tmbundle
